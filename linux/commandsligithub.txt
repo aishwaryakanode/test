@@ -1,0 +1,10 @@
+1) git clone "http url of git repository"
+2) git status
+3) git add . or git add file/fpldername
+4) git commit -m "some message"
+5) git push
+6) git pull
+7) git checkout "barnch_name"
+8) git checkout -b "barnch_name"
+9) git merge 
+10) git log
